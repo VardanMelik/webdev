@@ -140,6 +140,10 @@ img {
     border-radius: 6px;
 }
 
+.nb-0 {
+    margin-bottom: 0!important;
+}
+
 
 /* Buttons */
 
@@ -250,6 +254,10 @@ img {
     text-align: center;
     background-size: cover;
     background-position: center;
+}
+
+.hero .hero-small {
+    min-height: 40vh;
 }
 
 .hero:before {
